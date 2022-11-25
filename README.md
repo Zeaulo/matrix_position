@@ -2,11 +2,10 @@
 # README
 作者 : 张文浩，刘树华\
 Python包名 : matrix_position\
-最新版本 : 0.0.4
 
 Author : Jinghao, LiuShuhua\
 Python package name : matrix_position\
-least version : 0.0.4
+
 ## English:
 Our initial thinking is that we always conduct the algorithmic research or exploration about matrix during lots of subject learning.\
 But when we are programming using by Python, we often need to acquire the ongoing point's information(including of position and value) and its surrouding point information\
